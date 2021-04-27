@@ -6,11 +6,12 @@ title: About
 # About Me
 
 My name is Thomas Tannous.
-I am a Computer Science (BSc) graduate from Germany. Innovative work for
-projects that make the world a less painful and funnier place is my passion.
+I am german computer science (BSc) graduate, who tries to find a fun and fulfilling way
+through life.
 
-In particular, I have interest in programming, engineering, music, art,
-philosophy and psychology.
+My interest lies programming, engineering, game development, music, art, literature, philosophy and psychology.
+
 On my homepage you can find a showcase of my personal projects.
-
-My hobbies include reading classic books, making music and doing sports.
+Whenever I feel like, I know something important, that is missing in the
+internet, I will try to write a blog post about it.
+Thanks for visiting my page.
